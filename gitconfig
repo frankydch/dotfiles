@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = franklin@lecloset.fr
-	name = franklin dechanaud
+	email = franklin@lcloset.fr
+	name = franklin
